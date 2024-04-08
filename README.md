@@ -8,4 +8,6 @@
 
 - useEffect
 
+- controlled components / inputs
+
 - fetch GET, POST, PATCH, DELETE
