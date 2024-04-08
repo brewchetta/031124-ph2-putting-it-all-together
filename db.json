@@ -1,0 +1,29 @@
+{
+  "raccoons": [
+    {
+      "id": 1,
+      "name": "Bob",
+      "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Raccoon_in_Central_Park_%2835264%29.jpg/1200px-Raccoon_in_Central_Park_%2835264%29.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Steve",
+      "img_url": "https://i.natgeofe.com/n/8271db90-5c35-46bc-9429-588a9529e44a/raccoon_thumb_3x4.JPG"
+    },
+    {
+      "id": 3,
+      "name": "Bandit",
+      "img_url": "https://s7d1.scene7.com/is/image/isp/wawmraccoon-mkr?qlt=100&wid=1200&ts=1704813358043&$ImageComponent$&fit=constrain"
+    },
+    {
+      "name": "Greg",
+      "img_url": "https://npr.brightspotcdn.com/2b/18/c042b647406185b7de55c332432e/meeko-racoon-01-1024x1024.jpg",
+      "id": 4
+    },
+    {
+      "name": "Sam",
+      "img_url": "https://www.nwf.org/-/media/NEW-WEBSITE/Shared-Folder/Wildlife/Mammals/mammal_raccoon-wisconsin_mary-braatz_600x300.jpg",
+      "id": 5
+    }
+  ]
+}
